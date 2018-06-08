@@ -18,3 +18,5 @@
 > 今さら聞けない！GitHubの使い方【超初心者向け】
 - URL
 > https://techacademy.jp/magazine/6235#sec4_1_5
+## 他のページ
+[Command](/Command.md)
